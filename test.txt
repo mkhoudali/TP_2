@@ -4,6 +4,7 @@ Houda
 fatima
 =======
 kamal
+<<<<<<< HEAD
 >>>>>>> cd57016aef7ba948d3f3ca3970e3623989de0753
 
 nait
@@ -11,3 +12,7 @@ nait
 kamal
 hasna 
 >>>>>>> ee96d50cef9ade9eac3cfdff3532aa6c2ebb417c
+=======
+taoufik
+hasna 
+>>>>>>> 97cec3ed8ad474211b3c01c1d890fc531e3a1ba5
