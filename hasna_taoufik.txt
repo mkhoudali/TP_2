@@ -1,0 +1,11 @@
+ Le volume dans le lecteur D s'appelle Nouveau nom
+ Le num‚ro de s‚rie du volume est E60A-C9B5
+
+ R‚pertoire de D:\2022\Formations\DevOps\Git\TP_2-master
+
+29/09/2021  10:35    <DIR>          .
+29/09/2021  10:35    <DIR>          ..
+29/09/2021  10:35                 0 hasna_taoufik.txt
+29/09/2021  10:20                 0 test.txt
+               2 fichier(s)                0 octets
+               2 R‚p(s)  386ÿ940ÿ850ÿ176 octets libres
